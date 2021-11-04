@@ -1,0 +1,8 @@
+{
+  "": true,
+  "Test/step_defs/test_homepage_steps.py": true,
+  "Test/step_defs/test_homepage_steps.py::test_page_title": true,
+  "Test/step_defs/test_login_steps.py": true,
+  "Test/step_defs/test_login_steps.py::test_login_valid": true,
+  "Test/step_defs/test_login_steps.py::test_login_valid_credentials": true
+}

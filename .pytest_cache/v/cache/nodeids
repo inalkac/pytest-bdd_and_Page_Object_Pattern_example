@@ -1,0 +1,10 @@
+[
+  "Test/step_defs/test_homepage_steps.py::test_data",
+  "Test/step_defs/test_homepage_steps.py::test_open_homepage",
+  "Test/step_defs/test_homepage_steps.py::test_page_title",
+  "Test/step_defs/test_login_steps.py::test_data",
+  "Test/step_defs/test_login_steps.py::test_login_invalid_password",
+  "Test/step_defs/test_login_steps.py::test_login_invalid_username",
+  "Test/step_defs/test_login_steps.py::test_login_valid",
+  "Test/step_defs/test_login_steps.py::test_login_valid_credentials"
+]

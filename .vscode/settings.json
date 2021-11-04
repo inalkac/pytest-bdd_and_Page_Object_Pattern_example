@@ -1,0 +1,13 @@
+{
+    "cucumberautocomplete.steps": [
+        "Test/step_defs/*.py"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.pythonPath": "C:\\Users\\tsarion\\.virtualenvs\\BDD+Python-gN8TFNoz\\Scripts\\python.exe"
+}

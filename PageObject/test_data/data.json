@@ -1,0 +1,15 @@
+{
+    // homepage
+    "BASE_URL" : "https://github.com/",
+    "HOMEPAGE_TITLE" : "GitHub: Where the world builds software · GitHub",
+    
+    "SIGNUP_PAGE_TITLE" : "Join GitHub · GitHub",
+    // login page
+    "LOGIN_PAGE_URL" : "https://github.com/login",
+    "ACCOUNT_HOMEPAGE_URL" : "https://github.com",
+    "SIGNIN_FAIL_URL" : "https://github.com/session",
+    "USERNAME" : "type your name here",
+    "PASSWORD" : "type your pass here",
+    "INVALID_USERNAME" : "invalid",
+    "INVALID_PASSWORD" : "invalid"
+}
